@@ -1,1 +1,8 @@
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+flask
+paho-mqtt
 
